@@ -3,5 +3,7 @@ Igramscrapper is an instagram tool that give you the access to Instagram Followi
 # For download
 
 $ pip3 install Igramscraper
+
 $ git clone https://github.com/MouadD00/Igramscrapper.git
+
 $ cd Igramscrapper
